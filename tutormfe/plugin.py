@@ -32,7 +32,7 @@ config = {
 
 CORE_MFE_APPS: dict[str, MFE_ATTRS_TYPE] = {
     "authn": {
-        "repository": "https://github.com/openedx/frontend-app-authn.git",
+        "repository": "https://github.com/Uriyo/frontend-app-authn.git",
         "port": 1999,
     },
     "account": {
